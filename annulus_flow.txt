@@ -1,0 +1,21 @@
+Wed Apr 29 08:50:28 2020
+
+annulus_flow_test:
+  Python version: 3.6.9
+  FENICS version 2019.1.0
+  Navier-Stokes flow in an off-center annulus.
+  Graphics saved as "annulus_flow_mesh.png"
+  Solve at time t = 0.01
+  Solve at time t = 0.02
+  Solve at time t = 0.03
+  Solve at time t = 0.04
+  Solve at time t = 0.05
+  Solve at time t = 0.06
+  Solve at time t = 0.07
+  Solve at time t = 0.08
+  Solve at time t = 0.09
+  Solve at time t = 0.1
+
+annulus_flow_test:
+  Normal end of execution.
+Wed Apr 29 08:50:34 2020

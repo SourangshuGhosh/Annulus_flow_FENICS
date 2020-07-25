@@ -50,3 +50,13 @@ The following files can be found inside the velocity solutions directory
 - velocity_solution000007.vtu
 - velocity_solution000008.vtu
 - velocity_solution000009.vtu
+
+Questions & Bug reporting
+-----
+
+Please use Github issue tracker to report bugs. For other questions please contact [Sourangshu Ghosh](mailto:sourangshug123@gmail.com)
+
+License
+-----
+
+Annulus_flow_FENICS is released under the MIT license, reproduced in the file LICENSE in this directory.

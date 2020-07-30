@@ -11,7 +11,7 @@ def annulus_flow ( ):
 #
 #  Licensing:
 #
-#    This code is distributed under the GNU LGPL license.
+#    This code is distributed under the MIT license.
 #
 #  Modified:
 #
@@ -19,11 +19,11 @@ def annulus_flow ( ):
 #
 #  Author:
 #
-#    Michael Schneier
+#    Sourangshu Ghosh
 #
 #  Modifier:
 #
-#    John Burkardt
+#   Sourangshu Ghosh
 #
   import numpy as np
   import matplotlib.pyplot as plt
@@ -179,7 +179,7 @@ def annulus_flow_test ( ):
 #
 #  Licensing:
 #
-#    This code is distributed under the GNU LGPL license.
+#    This code is distributed under the MIT license.
 #
 #  Modified:
 #
@@ -187,8 +187,7 @@ def annulus_flow_test ( ):
 #
 #  Author:
 #
-#    Original version by Michael Schneier
-#    This version by John Burkardt
+#    Sourangshu Ghosh
 #
   import platform
 #

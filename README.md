@@ -14,6 +14,10 @@ To run this code under docker(), I issue the commands:
 Hans Petter Langtangen, Anders Logg,
 Solving PDEs in Python - The FEniCS Tutorial Volume 1.
 
+## Author:
+
+Sourangshu Ghosh
+
 ## Source Code:
 
 The code normally takes 1000 time steps. For documentation, we only take 10 steps.
